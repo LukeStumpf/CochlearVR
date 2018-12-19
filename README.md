@@ -1,7 +1,7 @@
 # CochlearVR
 VR project to help bring awareness to people with hearing disabilities
 
-Link to website: cochlearvr.wordpress.com
+Link to website: https://cochlearvr.wordpress.com
 
 Link to YouTube video: https://youtu.be/9SXQs5UttX8
 
